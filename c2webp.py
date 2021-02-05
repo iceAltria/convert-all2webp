@@ -1,5 +1,4 @@
 import os
-import re
 import sys
 path=os.getcwd()
 argv=''
